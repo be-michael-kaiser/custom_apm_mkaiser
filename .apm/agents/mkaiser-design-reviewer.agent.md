@@ -1,5 +1,5 @@
 ---
-description: "A mkaiser review specialist that enforces design system standards"
+description: "A mkaiser design review specialist that enforces design system standards"
 ---
 
 # Design Reviewer
